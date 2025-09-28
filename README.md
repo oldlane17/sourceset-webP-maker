@@ -38,9 +38,9 @@ pip install -r requirements.txt
 ```
 ## Usage
 ### Basic usage
-```python sourcesetwebpmaker.py --folder "/path/to/your/images" --savepath "/path/to/output"```
+```python sourcesetmaker.py --folder "/path/to/your/images" --savepath "/path/to/output"```
 ### Advanced usage
-``` python sourcesetwebpmaker.py \
+``` python sourcesetmaker.py \
   --folder "/path/to/your/images" \
   --savepath "/path/to/output" \
   --widths 320 640 960 1200 1600 \
